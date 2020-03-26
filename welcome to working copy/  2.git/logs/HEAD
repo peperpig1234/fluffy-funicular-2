@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a11ba1c2850ea150b184989c9d67f4e16e388e68 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	commit (initial): welcome readme
+a11ba1c2850ea150b184989c9d67f4e16e388e68 2cd7cfb98470256229d2e99824348b0a9b69748e Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	commit: Add example files
+2cd7cfb98470256229d2e99824348b0a9b69748e c62b43b995fa36bf1fc248eb9db088d5bb929840 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	commit: Add javascript test file
+c62b43b995fa36bf1fc248eb9db088d5bb929840 5404fa44097a41d43c1d34f70e2558ba6d1ff529 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	commit: add conflict image
+5404fa44097a41d43c1d34f70e2558ba6d1ff529 c62b43b995fa36bf1fc248eb9db088d5bb929840 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	checkout: moving from master to temp
+c62b43b995fa36bf1fc248eb9db088d5bb929840 06b9a9be90bc6af2fd780cb3dedc8678456b0351 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	commit: overlay action sheet
+06b9a9be90bc6af2fd780cb3dedc8678456b0351 5404fa44097a41d43c1d34f70e2558ba6d1ff529 Anders Borum <anders@workingcopyapp.com> 1550173869 +0100	checkout: moving from temp to master
+5404fa44097a41d43c1d34f70e2558ba6d1ff529 c62b43b995fa36bf1fc248eb9db088d5bb929840 Anders Borum <anders@workingcopyapp.com> 1585057041 +1100	reset: moving to c62b43b995fa36bf1fc248eb9db088d5bb929840

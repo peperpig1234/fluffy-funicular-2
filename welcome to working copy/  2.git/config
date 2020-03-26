@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	precomposeunicode = true
+[workingcopyapp]
+	welcome = true
+[user]
+	email = anders@workingcopyapp.com
+	name = Anders Borum
+[branch "master"]
+	tolerate-history-rewriting = true
